@@ -69,7 +69,7 @@ Całość wdrożona jest na klastrze Kubernetes, jako trzy osobne Deploymenty.
 
 ## Raport z Linear
 
-TODO
+[https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS](https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS)
 
 ## Materiały
 
