@@ -256,3 +256,9 @@ specific argument, for example:
         items = command.items
 ))
 ```
+
+## Resources for learning more
+
+* [Micronaut testing documentation](https://docs.micronaut.io/latest/guide/index.html#test)
+* [Micronaut test library documentation](https://micronaut-projects.github.io/micronaut-test/latest/guide/)
+* [Spock documentation](http://spockframework.org/spock/docs/2.3/index.html)
