@@ -188,7 +188,7 @@ class CreateOrderHandlerTest extends Specification {
         !savedOrder.isFinalized()
     }
 
-    @MockBean(RabbitmqDomainEventPublisher)
+    @MockBean(DomainEventPublisher)
     DomainEventPublisher domainEventPublisher() {
         Mock(DomainEventPublisher)
     }
@@ -235,7 +235,7 @@ class CreateOrderHandlerTest extends Specification {
         1 * domainEventPublisher.publish(_ as OrderFinalizedEvent)
     }
 
-    @MockBean(RabbitmqDomainEventPublisher)
+    @MockBean(DomainEventPublisher)
     DomainEventPublisher domainEventPublisher() {
         Mock(DomainEventPublisher)
     }
