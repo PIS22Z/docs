@@ -257,6 +257,10 @@ specific argument, for example:
 ))
 ```
 
+## Summary
+
+In this article, we've seen how to write integration tests for Micronaut applications. We've seen two approaches to writing integration tests: using real bean dependencies and mocking external dependencies, such as message brokers.
+
 ## Resources for learning more
 
 * [Micronaut testing documentation](https://docs.micronaut.io/latest/guide/index.html#test)
