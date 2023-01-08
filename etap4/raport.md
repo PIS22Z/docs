@@ -123,17 +123,17 @@ Pliki konfiguracyjne znajdują się w repozytoriach:
 
 ### Mateusz Maj
 
-- [PIS-12](https://linear.app/pis22z/issue/PIS-12/[fe]-przygotowac-pipeline-cicd)
-- [PIS-14](https://linear.app/pis22z/issue/PIS-14/spisac-stos-technologiczny-i-wybrane-narzedzia)
-- [PIS-19](https://linear.app/pis22z/issue/PIS-19/opisac-szczegolowo-wybrany-stos-technologiczny-befe)
-- [PIS-30](https://linear.app/pis22z/issue/PIS-30/fe)
-- [PIS-28](https://linear.app/pis22z/issue/PIS-28/fe)
-- [PIS-32](https://linear.app/pis22z/issue/PIS-32/fe)
-- [PIS-34](https://linear.app/pis22z/issue/PIS-34/fe)
-- [PIS-41](https://linear.app/pis22z/issue/PIS-41/fe)
-- [PIS-43](https://linear.app/pis22z/issue/PIS-43/fe)
-- [PIS-45](https://linear.app/pis22z/issue/PIS-45/fe)
-- [PIS-51](https://linear.app/pis22z/issue/PIS-51/fe)
+- [PIS-12](https://linear.app/pis22z/issue/PIS-12/[fe]-przygotowac-pipeline-cicd) 04:00:00
+- [PIS-14](https://linear.app/pis22z/issue/PIS-14/spisac-stos-technologiczny-i-wybrane-narzedzia) 00:32:00
+- [PIS-19](https://linear.app/pis22z/issue/PIS-19/opisac-szczegolowo-wybrany-stos-technologiczny-befe) 01:21:00
+- [PIS-30](https://linear.app/pis22z/issue/PIS-30/fe) 04:20:00
+- [PIS-28](https://linear.app/pis22z/issue/PIS-28/fe) 02:14:00
+- [PIS-32](https://linear.app/pis22z/issue/PIS-32/fe) 03:15:00
+- [PIS-34](https://linear.app/pis22z/issue/PIS-34/fe) 01:15:00
+- [PIS-41](https://linear.app/pis22z/issue/PIS-41/fe) 03:56:00
+- [PIS-43](https://linear.app/pis22z/issue/PIS-43/fe) 01:26:00
+- [PIS-45](https://linear.app/pis22z/issue/PIS-45/fe) 02:17:00
+- [PIS-51](https://linear.app/pis22z/issue/PIS-51/fe) 01:14:00
 
 ### Bartłomiej Rasztabiga
 
