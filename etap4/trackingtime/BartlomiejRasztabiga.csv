@@ -1,0 +1,11 @@
+User;Project;Task;Client;Notes;Date;Duration;Hours;From
+"bartlomiej.rasztabiga.official ";"";"Spisać listę zadań do zrobienia w postaci user stories";"";"";"11/20/2022";"5:00:00";"5";"12:03 pm"
+"bartlomiej.rasztabiga.official ";"";"Znaleźć narzędzie do śledzenia czasu poświęconego nad zadaniami";"";"";"11/20/2022";"1:00:00";"1";"7:02 pm"
+"bartlomiej.rasztabiga.official ";"";"Stworzyć raport/prezentację (np .pptx) pod etap 2";"";"";"11/28/2022";"4:15:00";"4.25";"8:43 pm"
+"bartlomiej.rasztabiga.official ";"";"PIS-29 BE: Jako zamawiający mogę sfinalizować zamówienie, przechodząc do podsumowania";"";"";"12/05/2022";"2:15:00";"2.25";"4:47 pm"
+"bartlomiej.rasztabiga.official ";"";"PIS-35 BE: Jako zamawiający mogę opłacić sfinalizowane zamówienie";"";"";"12/06/2022";"3:15:00";"3.25";"7:45 am"
+"bartlomiej.rasztabiga.official ";"";"PIS-35 BE: Jako zamawiający mogę opłacić sfinalizowane zamówienie";"";"";"12/12/2022";"0:38:00";"0.63";"11:52 am"
+"bartlomiej.rasztabiga.official ";"";"PIS-44 BE: Jako pracownik restauracji, mogę oznaczyć zamówienie jako gotowe do wydania";"";"";"12/17/2022";"3:18:00";"3.3";"4:45 pm"
+"bartlomiej.rasztabiga.official ";"";"PIS-42 BE: Jako dostawca, mogę zaakceptować zamówienie do dostarczenia";"";"";"12/18/2022";"4:45:00";"4.75";"8:00 am"
+"bartlomiej.rasztabiga.official ";"";"PIS-46 BE: Jako dostawca, mogę odebrać zamówienie rozpoczynając dostawę";"";"";"01/05/2023";"1:12:00";"1.2";"6:52 pm"
+"bartlomiej.rasztabiga.official ";"";"PIS-52 BE: Jako dostawca, mogę dostarczyć zamówienie kończąc dostawę";"";"";"01/08/2023";"1:23:00";"1.38";"6:52 pm"
