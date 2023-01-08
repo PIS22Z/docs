@@ -115,11 +115,11 @@ Pliki konfiguracyjne znajdują się w repozytoriach:
 
 ### Wojciech Kołodziejak
 
-- [PIS-11](https://linear.app/pis22z/issue/PIS-11/przygotowac-liste-wymagan-funkcjonalnych-lub-userstories)
-- [PIS-31](https://linear.app/pis22z/issue/PIS-31/be)
-- [PIS-16](https://linear.app/pis22z/issue/PIS-16/dokonczyc-event-storming)
-- [PIS-37](https://linear.app/pis22z/issue/PIS-37/be)
-- [PIS-33](https://linear.app/pis22z/issue/PIS-33/be)
+- [PIS-11](https://linear.app/pis22z/issue/PIS-11/przygotowac-liste-wymagan-funkcjonalnych-lub-userstories) 1:46h
+- [PIS-31](https://linear.app/pis22z/issue/PIS-31/be) 2:56h
+- [PIS-16](https://linear.app/pis22z/issue/PIS-16/dokonczyc-event-storming) 2:39h
+- [PIS-37](https://linear.app/pis22z/issue/PIS-37/be) 4:20h
+- [PIS-33](https://linear.app/pis22z/issue/PIS-33/be) 3:53h
 
 ### Mateusz Maj
 
