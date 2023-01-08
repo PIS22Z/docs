@@ -96,34 +96,54 @@ Pliki konfiguracyjne znajdują się w repozytoriach:
 
 ## Raport z Linear + Śledzenie czasu
 
+![linear_project.png](linear_project.png)
+
+[https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS](https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS)
+
 ### Wojciech Kołodziejak
-// TODO
+- [PIS-11](https://linear.app/pis22z/issue/PIS-11/przygotowac-liste-wymagan-funkcjonalnych-lub-userstories)
+- [PIS-31](https://linear.app/pis22z/issue/PIS-31/be)
+- [PIS-16](https://linear.app/pis22z/issue/PIS-16/dokonczyc-event-storming)
+- [PIS-37](https://linear.app/pis22z/issue/PIS-37/be)
+- [PIS-33](https://linear.app/pis22z/issue/PIS-33/be)
 
 ### Mateusz Maj
-// TODO
+- [PIS-12](https://linear.app/pis22z/issue/PIS-12/[fe]-przygotowac-pipeline-cicd)
+- [PIS-14](https://linear.app/pis22z/issue/PIS-14/spisac-stos-technologiczny-i-wybrane-narzedzia)
+- [PIS-19](https://linear.app/pis22z/issue/PIS-19/opisac-szczegolowo-wybrany-stos-technologiczny-befe)
+- [PIS-30](https://linear.app/pis22z/issue/PIS-30/fe)
+- [PIS-28](https://linear.app/pis22z/issue/PIS-28/fe)
+- [PIS-32](https://linear.app/pis22z/issue/PIS-32/fe)
+- [PIS-34](https://linear.app/pis22z/issue/PIS-34/fe)
+- [PIS-41](https://linear.app/pis22z/issue/PIS-41/fe)
+- [PIS-43](https://linear.app/pis22z/issue/PIS-43/fe)
+- [PIS-45](https://linear.app/pis22z/issue/PIS-45/fe)
+- [PIS-51](https://linear.app/pis22z/issue/PIS-51/fe)
 
 ### Bartłomiej Rasztabiga
-- [PIS-17](https://linear.app/pis22z/issue/PIS-17/znalezc-narzedzie-do-sledzenia-czasu-poswieconego-nad-zadaniami) 1:00h
-- [PIS-18](https://linear.app/pis22z/issue/PIS-18/spisac-liste-zadan-do-zrobienia-w-postaci-user-stories) 5:00h
 - [PIS-13](https://linear.app/pis22z/issue/PIS-13/[be]-przygotowac-pipeline-cicd) 4:00h
+- [PIS-18](https://linear.app/pis22z/issue/PIS-18/spisac-liste-zadan-do-zrobienia-w-postaci-user-stories) 5:00h
+- [PIS-17](https://linear.app/pis22z/issue/PIS-17/znalezc-narzedzie-do-sledzenia-czasu-poswieconego-nad-zadaniami) 1:00h
 - [PIS-21](https://linear.app/pis22z/issue/PIS-21/stworzyc-raportprezentacje-np-pptx-pod-etap-2) 4:15h
 - [PIS-29](https://linear.app/pis22z/issue/PIS-29/be) 2:15h
 - [PIS-35](https://linear.app/pis22z/issue/PIS-35/be) 3:53h
 - [PIS-44](https://linear.app/pis22z/issue/PIS-44/be) 3:18h
 - [PIS-42](https://linear.app/pis22z/issue/PIS-42/be) 4:45h
-- [PIS-52](https://linear.app/pis22z/issue/PIS-52/be) 1:23h
 - [PIS-46](https://linear.app/pis22z/issue/PIS-46/be) 1:12h
+- [PIS-52](https://linear.app/pis22z/issue/PIS-52/be) 1:23h
 
 Raport z TrackingTime znajduje się w ./trackingtime/BartlomiejRasztabiga.csv
 
-// TODO
-
 ### Denys Savytskyi
+- [PIS-15](https://linear.app/pis22z/issue/PIS-15/skonfigurowac-branch-protection-na-repozytoriach)
+- [PIS-22](https://linear.app/pis22z/issue/PIS-22/dodac-instrukcje-budowania-projektow)
+- [PIS-53](https://linear.app/pis22z/issue/PIS-53/dodac-testy-e2e-w-aplikacji-frontendowe)
+
+## Raport z GitHub
+
 // TODO
 
 
-// TODO raport z cykli
-// TODO burndown
 // TODO kto co zrobił (jakie taski, ile linii kodu, jakie pokrycie)
 // TODO time tracking
 // TODO jakiś raport z IDE? xD
@@ -132,7 +152,4 @@ Raport z TrackingTime znajduje się w ./trackingtime/BartlomiejRasztabiga.csv
 // TODO co dowiezione a co nie i czemu
 // TODO statystyki z githuba
 // TODO raport z sonara?
-
-## Śledzenie czasu
-
 
