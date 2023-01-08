@@ -103,15 +103,13 @@ Pliki konfiguracyjne znajdują się w repozytoriach:
 - [https://github.com/PIS22Z/backend/tree/main/k8s](https://github.com/PIS22Z/backend/tree/main/k8s)
 - [https://github.com/PIS22Z/frontend/tree/main/k8s](https://github.com/PIS22Z/frontend/tree/main/k8s)
 
-// TODO wrzucic jakis schemat bazy czy coś?
-
 ## Demo projektu
 
 [https://pis.rasztabiga.me/](https://pis.rasztabiga.me/)
 
 ## Raport z Linear + Śledzenie czasu
 
-![linear_project.png](linear_project.png)  // TODO zaktualizowac
+![linear_project.png](linear_project.png)
 
 [https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS](https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS)
 
@@ -140,12 +138,9 @@ Pliki konfiguracyjne znajdują się w repozytoriach:
 ### Bartłomiej Rasztabiga
 
 - [PIS-13](https://linear.app/pis22z/issue/PIS-13/[be]-przygotowac-pipeline-cicd) 4:00h
-- [PIS-18](https://linear.app/pis22z/issue/PIS-18/spisac-liste-zadan-do-zrobienia-w-postaci-user-stories)
-  5:00h
-- [PIS-17](https://linear.app/pis22z/issue/PIS-17/znalezc-narzedzie-do-sledzenia-czasu-poswieconego-nad-zadaniami)
-  1:00h
-- [PIS-21](https://linear.app/pis22z/issue/PIS-21/stworzyc-raportprezentacje-np-pptx-pod-etap-2) 4:
-  15h
+- [PIS-18](https://linear.app/pis22z/issue/PIS-18/spisac-liste-zadan-do-zrobienia-w-postaci-user-stories)5:00h
+- [PIS-17](https://linear.app/pis22z/issue/PIS-17/znalezc-narzedzie-do-sledzenia-czasu-poswieconego-nad-zadaniami)1:00h
+- [PIS-21](https://linear.app/pis22z/issue/PIS-21/stworzyc-raportprezentacje-np-pptx-pod-etap-2) 4:15h
 - [PIS-29](https://linear.app/pis22z/issue/PIS-29/be) 2:15h
 - [PIS-35](https://linear.app/pis22z/issue/PIS-35/be) 3:53h
 - [PIS-44](https://linear.app/pis22z/issue/PIS-44/be) 3:18h
@@ -165,17 +160,17 @@ Raport z TrackingTime znajduje się w ./trackingtime/BartlomiejRasztabiga.csv
 
 [https://github.com/PIS22Z/backend/graphs/contributors](https://github.com/PIS22Z/backend/graphs/contributors?from=2022-10-23&to=2023-01-08&type=a)
 
-![github_contributions_backend.png](github_contributions_backend.png) // TODO zaktualizowac
+![github_contributions_backend.png](github_contributions_backend.png)
 
 [https://github.com/PIS22Z/frontend/graphs/contributors](https://github.com/PIS22Z/frontend/graphs/contributors?from=2022-10-23&to=2023-01-08&type=a)
 
-![github_contributions_frontend.png](github_contributions_frontend.png) // TODO zaktualizowac
+![github_contributions_frontend.png](github_contributions_frontend.png)
 
 ## Raport z SonarCloud
 
 [https://sonarcloud.io/project/overview?id=PIS22Z_backend](https://sonarcloud.io/project/overview?id=PIS22Z_backend)
 
-![sonar.png](sonar.png) // TODO zaktualizowac
+![sonar.png](sonar.png)
 
 ## Pokrycie testami
 
@@ -210,11 +205,3 @@ Pokrycie: 91.2%
 [PR-11](https://sonarcloud.io/component_measures?id=PIS22Z_backend&pullRequest=11&metric=new_coverage&view=list)
 
 Pokrycie: 92.6%
-
-### Frontend
-
-// TODO pokrycie frontendu ?
-
-// TODO jakiś raport z IDE? xD
-// TODO diagram zaleznosci miedzy contextami
-
