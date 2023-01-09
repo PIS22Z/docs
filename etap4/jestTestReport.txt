@@ -1,0 +1,31 @@
+----------------------------|---------|----------|---------|---------|--------------------
+File                        | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s  
+----------------------------|---------|----------|---------|---------|--------------------
+All files                   |   97.02 |    88.75 |   92.04 |   97.43 |                    
+ components/Loader          |     100 |      100 |     100 |     100 |                    
+  Loader.styles.ts          |     100 |      100 |     100 |     100 |                    
+  Loader.tsx                |     100 |      100 |     100 |     100 |                    
+  index.ts                  |     100 |      100 |     100 |     100 |                    
+ components/RestaurantsList |     100 |      100 |     100 |     100 |                    
+  RestaurantsList.styles.ts |     100 |      100 |     100 |     100 |                   
+  RestaurantsList.tsx       |     100 |      100 |     100 |     100 |                   
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/DeliveryPage         |     100 |      100 |     100 |     100 |                   
+  DeliveryPage.styles.ts    |     100 |      100 |     100 |     100 |                   
+  DeliveryPage.tsx          |     100 |      100 |     100 |     100 |                   
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/KitchenPage          |   85.41 |    72.72 |   69.56 |   86.66 |                   
+  KitchenPage.styles.ts     |     100 |      100 |     100 |     100 |                   
+  KitchenPage.tsx           |   84.09 |    66.66 |   68.18 |   85.71 | 43,48-49,64,71,136
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/PaymentPage          |     100 |      100 |     100 |     100 |                   
+  PaymentPage.styles.ts     |     100 |      100 |     100 |     100 |                   
+  PaymentPage.tsx           |     100 |      100 |     100 |     100 |                   
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/ProductsPage         |     100 |     87.5 |     100 |     100 |                   
+  ProductsPage.styles.ts    |     100 |      100 |     100 |     100 |                   
+  ProductsPage.tsx          |     100 |       85 |     100 |     100 | 41-47,129         
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ redux/reducers             |   96.42 |    66.66 |     100 |     100 |                   
+  productSlice.ts           |   96.42 |    66.66 |     100 |     100 | 28,37,63          
+----------------------------|---------|----------|---------|---------|--------------------

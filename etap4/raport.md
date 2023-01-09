@@ -22,6 +22,7 @@ Iteracja 4 (2 sty -> 9 sty):
 - Jako dostawca, mogę odebrać zamówienie rozpoczynając dostawę
 - Jako pracownik restauracji, mogę zaakceptować albo odrzucić opłacone zamówienie
 - Jako dostawca, mogę dostarczyć zamówienie kończąc dostawę
+- Testy e2e w aplikacji frontendowe
 
 Nieukończone:
 
@@ -113,6 +114,8 @@ Pliki konfiguracyjne znajdują się w repozytoriach:
 
 [https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS](https://linear.app/pis22z/project/pis-09dd886f8e2f/PIS)
 
+Raporty z aplikacji TrackingTime znajdują się w ./trackingtime
+
 ### Wojciech Kołodziejak
 
 - [PIS-11](https://linear.app/pis22z/issue/PIS-11/przygotowac-liste-wymagan-funkcjonalnych-lub-userstories) 1:46h
@@ -148,7 +151,7 @@ Pliki konfiguracyjne znajdują się w repozytoriach:
 - [PIS-46](https://linear.app/pis22z/issue/PIS-46/be) 1:12h
 - [PIS-52](https://linear.app/pis22z/issue/PIS-52/be) 1:23h
 
-Raport z TrackingTime znajduje się w ./trackingtime/BartlomiejRasztabiga.csv
+
 
 ### Denys Savytskyi
 
@@ -158,11 +161,11 @@ Raport z TrackingTime znajduje się w ./trackingtime/BartlomiejRasztabiga.csv
 
 ## Raport z GitHub
 
-[https://github.com/PIS22Z/backend/graphs/contributors](https://github.com/PIS22Z/backend/graphs/contributors?from=2022-10-23&to=2023-01-08&type=a)
+[https://github.com/PIS22Z/backend/graphs/contributors](https://github.com/PIS22Z/backend/graphs/contributors?from=2022-10-23&to=2023-01-09&type=a)
 
 ![github_contributions_backend.png](github_contributions_backend.png)
 
-[https://github.com/PIS22Z/frontend/graphs/contributors](https://github.com/PIS22Z/frontend/graphs/contributors?from=2022-10-23&to=2023-01-08&type=a)
+[https://github.com/PIS22Z/frontend/graphs/contributors](https://github.com/PIS22Z/frontend/graphs/contributors?from=2022-10-23&to=2023-01-09&type=a)
 
 ![github_contributions_frontend.png](github_contributions_frontend.png)
 
@@ -205,3 +208,44 @@ Pokrycie: 91.2%
 [PR-11](https://sonarcloud.io/component_measures?id=PIS22Z_backend&pullRequest=11&metric=new_coverage&view=list)
 
 Pokrycie: 92.6%
+
+### Frontend
+
+Pokrycie testami wynosi 97,.2%
+
+
+```
+----------------------------|---------|----------|---------|---------|--------------------
+File                        | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s  
+----------------------------|---------|----------|---------|---------|--------------------
+All files                   |   97.02 |    88.75 |   92.04 |   97.43 |                    
+ components/Loader          |     100 |      100 |     100 |     100 |                    
+  Loader.styles.ts          |     100 |      100 |     100 |     100 |                    
+  Loader.tsx                |     100 |      100 |     100 |     100 |                    
+  index.ts                  |     100 |      100 |     100 |     100 |                    
+ components/RestaurantsList |     100 |      100 |     100 |     100 |                    
+  RestaurantsList.styles.ts |     100 |      100 |     100 |     100 |                   
+  RestaurantsList.tsx       |     100 |      100 |     100 |     100 |                   
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/DeliveryPage         |     100 |      100 |     100 |     100 |                   
+  DeliveryPage.styles.ts    |     100 |      100 |     100 |     100 |                   
+  DeliveryPage.tsx          |     100 |      100 |     100 |     100 |                   
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/KitchenPage          |   85.41 |    72.72 |   69.56 |   86.66 |                   
+  KitchenPage.styles.ts     |     100 |      100 |     100 |     100 |                   
+  KitchenPage.tsx           |   84.09 |    66.66 |   68.18 |   85.71 | 43,48-49,64,71,136
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/PaymentPage          |     100 |      100 |     100 |     100 |                   
+  PaymentPage.styles.ts     |     100 |      100 |     100 |     100 |                   
+  PaymentPage.tsx           |     100 |      100 |     100 |     100 |                   
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ pages/ProductsPage         |     100 |     87.5 |     100 |     100 |                   
+  ProductsPage.styles.ts    |     100 |      100 |     100 |     100 |                   
+  ProductsPage.tsx          |     100 |       85 |     100 |     100 | 41-47,129         
+  index.ts                  |     100 |      100 |     100 |     100 |                   
+ redux/reducers             |   96.42 |    66.66 |     100 |     100 |                   
+  productSlice.ts           |   96.42 |    66.66 |     100 |     100 | 28,37,63          
+----------------------------|---------|----------|---------|---------|--------------------
+```
+
+Raport z Jest znajduje się w ./jestTestReport.txt
