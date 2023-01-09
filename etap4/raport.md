@@ -4,9 +4,13 @@
 
 [https://docs.google.com/presentation/d/1zgAmsCfO-fykVBQbTmsWYsFbuDOsnvWy-Q5jTxN5Eos](https://docs.google.com/presentation/d/1zgAmsCfO-fykVBQbTmsWYsFbuDOsnvWy-Q5jTxN5Eos)
 
+PDF prezentacji znajduje się w ./miro.pdf
+
 ## Event Storming
 
 [https://miro.com/app/board/uXjVPb5sfE4=/](https://miro.com/app/board/uXjVPb5sfE4=/)
+
+PDF z sesji event stormingu znajduje się w ./miro.pdf. Niska jakość spowodowana jest darmową wersją Miro.
 
 ## User stories
 
