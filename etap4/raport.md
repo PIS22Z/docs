@@ -152,9 +152,9 @@ Raport z TrackingTime znajduje się w ./trackingtime/BartlomiejRasztabiga.csv
 
 ### Denys Savytskyi
 
-- [PIS-15](https://linear.app/pis22z/issue/PIS-15/skonfigurowac-branch-protection-na-repozytoriach)
-- [PIS-22](https://linear.app/pis22z/issue/PIS-22/dodac-instrukcje-budowania-projektow)
-- [PIS-53](https://linear.app/pis22z/issue/PIS-53/dodac-testy-e2e-w-aplikacji-frontendowe)
+- [PIS-15](https://linear.app/pis22z/issue/PIS-15/skonfigurowac-branch-protection-na-repozytoriach) 1:36:00
+- [PIS-22](https://linear.app/pis22z/issue/PIS-22/dodac-instrukcje-budowania-projektow) 1:15:00
+- [PIS-53](https://linear.app/pis22z/issue/PIS-53/dodac-testy-e2e-w-aplikacji-frontendowe) 11:07:00
 
 ## Raport z GitHub
 
