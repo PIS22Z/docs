@@ -1,5 +1,13 @@
 # PIS - Aplikacja do zamawiania jedzenia
 
+## Prezentacja marketingowo-handlowa
+
+[https://docs.google.com/presentation/d/1zgAmsCfO-fykVBQbTmsWYsFbuDOsnvWy-Q5jTxN5Eos](https://docs.google.com/presentation/d/1zgAmsCfO-fykVBQbTmsWYsFbuDOsnvWy-Q5jTxN5Eos)
+
+## Event Storming
+
+[https://miro.com/app/board/uXjVPb5sfE4=/](https://miro.com/app/board/uXjVPb5sfE4=/)
+
 ## User stories
 
 Iteracja 1 (28 lis -> 5 gru):
